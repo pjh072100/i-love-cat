@@ -1,7 +1,11 @@
-﻿<html>
+<!DOCTYPE html>
+<html>
 
 
 <head>
+
+<meta charset="utf-8">
+
 <title> i love you! </title>
 </head>
 
@@ -9,7 +13,7 @@
 <body>
 
 	<style type="text/css">
-		h1{color:blue;}
+		h6{color:blue;}
 
 	</style>
 
@@ -17,14 +21,14 @@
 <marquee> 
 	
 
-	<h1> 카레라면 마시쪙 </h1>
+	<h6> 카레라면 마시쪙 </h6>
 
 	
 	<!-- <h3>  5000원 낼 갚을게요!!! </h3> -->
-
+<!-- <h3> 갚지 말아줘용!!!!!!!!!! </h3> -->
 
 </marquee>
-
+<img src="C:\Users\CafeAlle\Pictures\care.jpg" width="400">
 </body>
 
 
